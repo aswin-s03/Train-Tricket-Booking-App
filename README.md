@@ -124,22 +124,3 @@ These technologies are carefully selected to provide a robust, efficient, and us
 
 ### Note: Similar to the user, if an admin registers with the role "ADMIN," they will also have access to all the features mentioned above.
 
-Here's the revised instruction, including the "Register New User" button detail for admin access setup:
-
----
-
-
-## Contributing
-
-🚀 **We welcome contributions to enhance this project!** 🚀
-
-If you have ideas for new features or improvements, please open an issue or submit a pull request. Whether you're looking to fix bugs, improve documentation, or develop new functionalities, your contributions are highly valued.
-
-### Suggestions for Improvement:
-- Enhance user interface with modern design
-- Implement advanced analytics for ticket booking
-- Add multi-language support
-
-We are excited to collaborate and make this project even better. **Let's build something great together!** 💪
-
-**Happy coding!** 🎉
